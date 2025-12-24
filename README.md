@@ -61,7 +61,7 @@ This work demonstrates how:
 
 ## Author
 
-Savindu Sihilel  
-Department of Computer Science
-Sri Lanka Institute of Information Technology (SLIIT)
+Savindu Sihilel␠␠
+Department of Computer Science␠␠
+Sri Lanka Institute of Information Technology (SLIIT)␠␠
 Malabe, Sri Lanka LK
