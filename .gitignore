@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large artifacts / models
+*.pth
+*.joblib
+*.npy
+*.npz
+*.csv
+
+# Logs / outputs
+evaluation.json
+exp_outputs/
+outputs/
+
+# Streamlit cache
+.streamlit/
+
+# IDE
+.vscode/
+.idea/
